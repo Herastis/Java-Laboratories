@@ -12,6 +12,7 @@ public class Database {
 
     public static Connection getConnection() {
         try{
+
             System.out.println("Connecting to database...");
             conn = DriverManager.getConnection(DB_URL, USER, PASS);
         }catch(SQLException se){
