@@ -1,1 +1,1 @@
-# Tomescu Tudor-Gabriel, Grupa E1, Laborator-Java
+Java laboratories that I have worked on during faculty
